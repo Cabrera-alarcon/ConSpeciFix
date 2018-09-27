@@ -19,10 +19,6 @@ The following programs should be accessable from your command line (on your loca
 
 ## Functionality
 
-There are three variants of the current conspecifix process. They are:
+This branch is specified to allow the filepath to be passed as a command-line argument.
 
-- [**Analyze Your Own Genomes:**](https://github.com/Bobay-Ochman/ConSpeciFix/tree/forRelease/personalCompare) for use on a single folder of genomes to determine if they are all the same species.
-- [**Database Mining:**](https://github.com/Bobay-Ochman/ConSpeciFix/tree/forRelease/database) used to build a large database of genomes. Initiates downloads and comparisons, producing results for several species.
-- **Web-based Database Comparison:** A light-weight database comparison method designed for use in our website at www.conspecifix.com. Not in the standard release.
-
-These are all found in their respective folders with respective README files to describe specific functions.
+[**Analyze Your Own Genomes:**](https://github.com/Bobay-Ochman/ConSpeciFix/tree/forRelease/personalCompare) for use on a single folder of genomes to determine if they are all the same species.
