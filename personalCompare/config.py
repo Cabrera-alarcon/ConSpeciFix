@@ -10,7 +10,7 @@ import math
 
 # This is where your folder of strains should be located
 # Path should be followed by a tailing slash
-PATH_TO_FOLDER = '/user/documents/myCoolProject/myGenomes/'
+PATH_TO_FOLDER = sys.argv[1]
 
 # Your local instalations for the following programs,
 # or simply the name of the program if it can be accessed from the command line
